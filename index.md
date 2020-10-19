@@ -129,3 +129,6 @@ PR修正依頼箇所を修正し、再pushした
 
 # 2020/10/18
 #practice to change a-tag rink in the text form
+
+# 2020/10/19
+#Study Laravel
