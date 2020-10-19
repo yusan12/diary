@@ -132,3 +132,6 @@ PR修正依頼箇所を修正し、再pushした
 
 # 2020/10/19
 #Study Laravel
+
+# 2020/10/20
+#Study Laravel
